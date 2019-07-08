@@ -1,0 +1,1 @@
+puts sprintf("%0.4f", 1.2)
